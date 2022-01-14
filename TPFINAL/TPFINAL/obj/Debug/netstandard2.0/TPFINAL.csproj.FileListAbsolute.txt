@@ -1,0 +1,16 @@
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\bin\Debug\netstandard2.0\TPFINAL.deps.json
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\bin\Debug\netstandard2.0\TPFINAL.dll
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\bin\Debug\netstandard2.0\ref\TPFINAL.dll
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\bin\Debug\netstandard2.0\TPFINAL.pdb
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.csproj.AssemblyReference.cache
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.AssemblyInfoInputs.cache
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.AssemblyInfo.cs
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.csproj.CoreCompileInputs.cache
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.dll
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\ref\TPFINAL.dll
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\TPFINAL.pdb
+C:\Users\Igor Nicolas\source\repos\TPFINAL\TPFINAL\TPFINAL\obj\Debug\netstandard2.0\Views\NovaMercadoria.xaml.g.cs
